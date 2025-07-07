@@ -1,0 +1,10 @@
+{
+  "name": "wx-lite-game1",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
